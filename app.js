@@ -15,3 +15,6 @@ function isMerge(s, part1, part2) {
 }
 
 console.log(isMerge('codewars', 'cdw', 'oears' ))
+
+
+// End
